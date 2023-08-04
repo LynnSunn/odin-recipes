@@ -1,1 +1,1 @@
-# odin-recipes
+Odin Recipes project for Foundations section.
